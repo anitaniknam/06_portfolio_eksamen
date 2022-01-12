@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d8510f"/>
+      <stop offset="0.12" stop-color="#da5a0d"/>
+      <stop offset="0.32" stop-color="#e07408"/>
+      <stop offset="0.57" stop-color="#e99c00"/>
+      <stop offset="0.87" stop-color="#e8a700"/>
+      <stop offset="0.99" stop-color="#d5b965"/>
+    </linearGradient>
+    <clipPath id="clip-Artboard_4">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_4" data-name="Artboard – 4" clip-path="url(#clip-Artboard_4)">
+    <g id="Group_10" data-name="Group 10" transform="translate(-12 -21)">
+      <g id="Layer_5" data-name="Layer 5" transform="translate(-105.72 -113.48)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="25" cy="25" r="25" transform="translate(117.72 134.48)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="No" transform="translate(27.113 36)">
+        <rect id="Rectangle_1445" data-name="Rectangle 1445" width="19.369" height="19.369" transform="translate(0.027)" fill="none"/>
+        <path id="Union_3" data-name="Union 3" d="M.028,18.205l8.192-8.192L0,1.8,1.8,0l8.218,8.218L17.979.254l1.8,1.795L11.81,10.013l7.939,7.939-1.8,1.795-7.939-7.938L1.822,20Z" transform="translate(-0.001)"/>
+      </g>
+    </g>
+  </g>
+</svg>
